@@ -1,9 +1,9 @@
 .first {
-  font-family: "Courier New"; 
-  color: green; 
+  font-family: "Monospace";
+  color:  green;
 }
 
 .second {
-  font-family: "Times New Roman";
-  color: deepskyblue;
+  font-family: "Times New Roman, Serif";
+  color:  deepskyblue;
 }
